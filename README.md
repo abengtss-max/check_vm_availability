@@ -1,0 +1,1 @@
+# check_vm_availability
